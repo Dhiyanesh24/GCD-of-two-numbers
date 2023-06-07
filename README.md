@@ -29,7 +29,9 @@ To write a program to find the GCD of two numbers using function.
 ```
 
 ## Output:
-       ![image](https://github.com/Dhiyanesh24/GCD-of-two-numbers/assets/118362288/c676cb62-ceb1-4c71-9bb5-e6f6a8bc4a7a)
+![image](https://github.com/Dhiyanesh24/GCD-of-two-numbers/assets/118362288/dcdef817-1a42-4830-b37d-30eb23ae168b)
+
+       
 
 
 
